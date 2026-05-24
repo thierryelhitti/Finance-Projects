@@ -1,1 +1,2 @@
-This repository focuses on option pricing in python, staring with a simple multi-step binomial tree to price a call option today.
+This repository focuses on finance projects in python, staring with a simple multi-step binomial tree to price a call option today. Next steps include a stock return analyzer, Black and scholes pricer, volatility analyser, greeks table, bond pricer, YTM solver, portfolio calculator, ratios, etc...
+
