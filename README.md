@@ -2,7 +2,7 @@ This repository focuses on finance projects in python, starting with a simple mu
 
 #Notes for the bond pricer
 - Next improvements: 24/05/2026
-    Place each meaningful calculation into its own reusable function that can be called by other functions.
+    Place each meaningful calculation into its own reusable function that can be called by other functions. (move to .py).
 
     Add convexity computation
 
